@@ -2,7 +2,7 @@
 
 Simple GitHub Pages site template using [Github Pages](https://pages.github.com/), using modified Jekyll slate theme.
 
-Configuration and webpage content are contained in the `docs`folder.
+Configuration and webpage content are contained in the `/docs` folder.
 
 ## Configuration
 
@@ -29,3 +29,7 @@ Settings menu item and  Settings.
 ## Add Content
 
 Choose **Add File** or edit and create content using markdown.
+
+## Wait for Build 
+
+GitHub and will be build and published in a few minutes [https://drffej.github.io/github-pages/](https://drffej.github.io/github-pages/).
